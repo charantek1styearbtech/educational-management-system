@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore SQLite database file
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore local configuration files
+instance/
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
