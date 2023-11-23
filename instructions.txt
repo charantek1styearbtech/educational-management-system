@@ -1,0 +1,6 @@
+to setup connection between program and whatsapp bot no.
+we need ngrok (Ngrok is a tool that creates secure tunnels to localhost, allowing external access to your local development environment. It provides a public URL for a web application or service running on your local machine)
+setup installed in laptop 
+
+Have a whatsapp no given by twilio messaging services i used trail no which gives 15$ as free credits which is sufficent for the bot to run.
+and connect the public url to twilio api. 
